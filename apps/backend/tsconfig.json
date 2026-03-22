@@ -1,0 +1,1 @@
+{\n  "compilerOptions": {\n    "target": "esnext",\n    "module": "commonjs",\n    "strict": true,\n    "sourceMap": true,\n    "outDir": "dist",\n    "rootDir": "src",\n    "experimentalDecorators": true,\n    "emitDecoratorMetadata": true,\n    "skipLibCheck": true,\n    "types": ["node"]\n  },\n  "include": ["src/**/*.ts"],\n  "exclude": ["node_modules"]\n}
